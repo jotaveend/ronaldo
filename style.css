@@ -31,7 +31,7 @@ body::before {
     z-index: -1;
 
     /* --- COLOQUE O LINK DO SEU GIF AQUI --- */
-    background-image: url('/midia/feliznatal.gif');
+    background-image: url('midia/feliznatal.gif');
     /* ------------------------------------- */
 
     background-size: cover; /* Faz o GIF cobrir toda a tela sem distorcer */
